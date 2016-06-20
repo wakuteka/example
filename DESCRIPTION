@@ -1,8 +1,8 @@
 Package: exampler
-Title: What the Package Does (one line, title case)
-Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Title: Package example for beginner
+Version: 0.1.0.9000
+Authors@R: person("Takao", "Yokoyama", email = "cb.yokoyama@gmail.com", role = c("aut", "cre"))
+Description: This is minimum example of package creation.
 Depends:
     R (>= 3.3.0)
 License: MIT + file LICENSE
