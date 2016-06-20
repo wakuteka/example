@@ -1,5 +1,5 @@
 # exampler
-Package example for beginner
+Package example by the beginner, for the beginner
 
 # Installation
 
