@@ -1,6 +1,8 @@
 # exampler
 Package example by the beginner, for the beginner
 
+see also: http://qiita.com/wakuteka/items/54f81f32baf50e243461
+
 # Installation
 
 To get the current released version from github:
