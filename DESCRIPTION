@@ -4,11 +4,11 @@ Version: 0.1.0.9000
 Authors@R: person("Takao", "Yokoyama", email = "cb.yokoyama@gmail.com", role = c("aut", "cre"))
 Description: This is minimum example of package creation.
 Depends:
-    R (>= 3.3.0)
+    R (>= 3.2.3)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 5.0.1
-Imports: Nippon (>= 0.6.3-1),
+Imports: Nippon (>= 0.6.3),
     lubridate,
     dplyr
