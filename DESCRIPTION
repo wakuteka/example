@@ -1,6 +1,6 @@
 Package: exampler
 Title: Package example for beginner
-Version: 0.1.0.9000
+Version: 0.1.1.9001
 Authors@R: person("Takao", "Yokoyama", email = "cb.yokoyama@gmail.com", role = c("aut", "cre"))
 Description: This is minimum example of package creation.
 Depends:
